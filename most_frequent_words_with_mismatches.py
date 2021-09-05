@@ -55,7 +55,7 @@ def main_function(Text, k, d):
     
     return frequent_patterns
 
-with open('rosalind_ba1i.txt') as f:
+with open('file.txt') as f:
     Text = f.readline()
     Data = f.readline()
 f.close()

@@ -15,7 +15,7 @@ def HammingDistance(Pattern, Pattern1):
             count+=1
     return count
 
-with open('rosalind_ba1h.txt') as f:
+with open('file.txt') as f:
     Pattern = f.readline()
     Text = f.readline()
     d = f.readline()

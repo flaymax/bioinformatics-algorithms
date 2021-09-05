@@ -82,7 +82,7 @@ def number_to_symbol(number):
 
 
 
-with open('rosalind_ba1e.txt') as f:
+with open('file.txt') as f:
     Genome = f.readline()
     Data = f.readline()
 f.close()
