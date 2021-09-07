@@ -1,1 +1,1 @@
-Bioinformatics algorithm course in MIPT
+Bioinformatics algorithms course in MIPT
